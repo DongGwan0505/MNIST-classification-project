@@ -11,6 +11,7 @@
    - (-2,2) 구간 300개 데이터 기반 다항 회귀 모델 학습
    - Learning Curve & Early Stopping으로 최적 차수(3차) 선정
    - 🔑 **핵심: Validation Error 최소 모델 찾기**
+   - 링크 : https://github.com/DongGwan0505/MNIST-classification-project/tree/main/1.Find_best_polynomial_parameter
 
 2. [프로젝트 2 이름](./project2_xxx)  
    - 간단 요약
