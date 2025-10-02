@@ -57,6 +57,7 @@ model = keras.models.Sequential([
     Dropout(0.3),
     Dense(10, activation="softmax")
 ])
+```
 
 📊 성능 비교
 모델	정확도
