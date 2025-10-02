@@ -37,6 +37,7 @@ Optimizer: Nadam + ReduceLROnPlateau
 최종 정확도 99.7% 달성 (최고 성능)
 
 🏗 모델 구조 (FCNN 예시)
+```python
 model = keras.models.Sequential([
     Flatten(input_shape=[28, 28]),
     Dense(1024, activation="relu", kernel_initializer="he_normal"),
